@@ -2,8 +2,8 @@
 
 
 
-- I like building mobile-apps with Flutter.
-- I’m currently perfectioning the skill of building dApps on Solana.
+- I like building Web & mobile-apps with Flutter.
+- At the moment I'm learning to build Solana Programs with Rust.
 - [Visit my website!](https://maruthan.ch)
 
 
