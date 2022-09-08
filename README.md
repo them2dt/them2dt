@@ -9,8 +9,8 @@
  <p  align="center" > In my journey of coding sessions at 2AM and liters of coffee, i had some projects i really enjoyed working on. </p>
 </p>
 <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=them2dt&repo=keymount&theme=gotham">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=them2dt&repo=geschichte-des-pcs&theme=aura">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=them2dt&repo=pong&theme=outrun">
+      <a href="https://github.com/them2dt/keymount"><img src="https://github-readme-stats.vercel.app/api/pin/?username=them2dt&repo=keymount&theme=gotham"></a>
+      <a href="https://github.com/them2dt/geschichte-des-pcs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=them2dt&repo=geschichte-des-pcs&theme=aura"></a>
+      <a href="https://github.com/them2dt/pong"><img src="https://github-readme-stats.vercel.app/api/pin/?username=them2dt&repo=pong&theme=outrun"></a>
 </p>
 
