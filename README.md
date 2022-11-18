@@ -9,9 +9,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEM2DT&theme=algolia">
  </a>
 </p>
-<h3 align="center">Pinned</h3>
-<p align="center">
- <a href="https://github.com/emptea-xyz/solana-starter-kit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emptea-xyz&repo=solana-starter-kit&theme=algolia">
- </a>
-</p>
+
