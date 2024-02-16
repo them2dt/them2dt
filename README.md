@@ -6,7 +6,7 @@ I'm just gonna make this short 'n sweet.
 <br/>
 Here's my [Portfolio](https://maruthan.com) and the [project](https://emptea.xyz), i'm working on currently.
 
-## Tech-stack
+## Tech-stack (Active)
 ### Frontend (Primary)
 - React.js
 - Next.js
@@ -19,4 +19,10 @@ Here's my [Portfolio](https://maruthan.com) and the [project](https://emptea.xyz
 - Solana/Web3.js
 - Anchor-lang
 
-See ya!
+## Also worked with
+- Java
+- Rust
+- Python
+- Unity
+- Blender
+- MySQL
